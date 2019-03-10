@@ -36,7 +36,7 @@ bool isPermutation(char input1[], char input2[]) {
       if(flag==0)
         return flag==1;
     }
-  
+ 
    return flag==1;
   }
   
